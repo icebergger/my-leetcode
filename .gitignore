@@ -1,0 +1,11 @@
+target
+bin
+.settings
+.classpath
+.project
+.tern-project
+liquibase.properties
+rebel.xml
+.idea/
+*.iml
+*DS_Store
